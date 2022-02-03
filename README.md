@@ -11,7 +11,7 @@ The data can be found in the petfinder-pawpularity-score. There are three csv fi
 The report can be found in /docs. There is a version per milestone as well as the final version of the report. In this folder you can also find the pdf of the presentation.
 
 ## How to use code
-The code should be executed in google colab. Since google colab is used, self made functions cannot be imported and each notebook contains the full code for the model.
+The code should be executed in Google Colab. Since Google Colab is used, self made functions cannot be imported and each notebook contains the full code for the model.
 
 ## Authors
 Cass Maes, Bente van Katwijk, Demi Soetens and Ilse Feenstra
